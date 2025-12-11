@@ -39,10 +39,6 @@ a {
 .navigation-list-link:hover {
   color: #404bbf;
 }
-.navigation-list-span:active {
-  color: #404bbf;
-  text-decoration: underline;
-}
 .contacts-list-link {
   font-weight: 400;
   font-size: 16px;
