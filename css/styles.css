@@ -76,6 +76,7 @@ a {
   letter-spacing: 0.04em;
   color: white;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .hero-btn:hover {
